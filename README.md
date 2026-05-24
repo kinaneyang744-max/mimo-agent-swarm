@@ -200,3 +200,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 <p align="center">
   <em>Built with ❤️ using Xiaomi MiMo V2.5 for long-chain reasoning</em>
 </p>
+
+---
+
+## 📸 Proof of Work — Dashboard
+
+![Proof Dashboard](docs/images/proof_dashboard.png)
+
+> Live dashboard showing 1.2M+ tokens consumed, 32/32 tests passing, and real-time multi-agent coordination.
